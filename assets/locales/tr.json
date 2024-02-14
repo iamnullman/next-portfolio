@@ -1,0 +1,42 @@
+{
+    "lang": "tr",
+    "description": "Merhaba, ben Enes! 17 yaşındayım ve yazılımla uğraşmaya tam 7 yıl önce başladım. Şu anda full-stack web developer olarak çalışıyorum. Aynı zamanda müzikle uğraşmayı, çizim yapmayı, anime izlemeyi ve müzik dinlemeyi de seviyorum.",
+    "header": {
+        "home": "Ana Sayfa",
+        "projects": "Projeler",
+        "blog": "Blog"
+    },
+    "repositories": "Repositories",
+    "clips": "Klipler",
+    "projects": "Projelerim",
+    "skills": "Teknolojiler",
+    "feedback": "Yorumlar",
+    "blogs": "Yazılarım",
+    "noBlog": "Yazı bulunamadı.",
+    "footer": {
+        "desc": "Tüm hakları saklıdır.",
+        "made": "nullman tarafından yapıldı"
+    },
+    "feedbacks": [
+        {
+            "name": "Duran Akbaş",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+            "name": "Grage Deniz",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+            "name": "Ayşe Demir",
+            "desc": "Enes ile çalışmak harikaydı! Web sitesi oluşturmak için ona başvurdum ve sonuçtan çok memnun kaldım. İsteklerimi anladı, görsel olarak çekici bir tasarım yaptı ve siteyi hızlı bir şekilde tamamladı. Ayrıca, iletişimimiz her zaman açık ve netti. Enes'i herkese gönül rahatlığıyla tavsiye ederim!"
+        },
+        {
+            "name": "Ali Yıldız",
+            "desc": "Enes ile çeviri konusunda çalışmak harikaydı. Belgelerimi zamanında ve profesyonel bir şekilde çevirdi. Dil becerileri mükemmel ve çevirileri akıcıydı. Ayrıca, işbirliğimiz süresince iletişimi her zaman korudu ve isteklerimi dikkate aldı. Enes'e teşekkür ederim, harika bir deneyimdi!"
+        },
+        {
+            "name": "Alperen Demirel",
+            "desc": "Çok hızlı bir işlemdi, hizmeti de kalitesi de baya iyiydi, tavsiye ediyorum."
+        }
+    ]
+}

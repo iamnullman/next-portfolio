@@ -1,0 +1,42 @@
+{
+    "lang": "en",
+    "description": "Hello, I'm Enes! I'm 17 years old and started coding 7 years ago. Currently, I work as a full-stack web developer. Besides coding, I enjoy playing music, drawing, watching anime, and listening to various genres of music.",
+    "header": {
+        "home": "Home",
+        "projects": "Projects",
+        "blog": "Blog"
+    },
+    "repositories": "Repositories",
+    "clips": "Clips",
+    "projects": "My Projects",
+    "skills": "Skills",
+    "feedback": "Feedback",
+    "blogs": "My Blogs",
+    "noBlog": "No blog found.",
+    "footer": {
+        "desc": "All rights reserved.",
+        "made": "Made by nullman"
+    },
+    "feedbacks": [
+        {
+            "name": "Duran Akbaş",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+            "name": "Grage Deniz",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+            "name": "Ayşe Demir",
+            "desc": "Working with Enes was fantastic! I approached him to create a website and I am extremely satisfied with the result. He understood my requirements, created an visually appealing design, and completed the site quickly. Moreover, our communication was always open and clear. I highly recommend Enes to everyone without hesitation!"
+        },
+        {
+            "name": "Ali Yıldız",
+            "desc": "Working with Enes on translation was amazing. He translated my documents promptly and professionally. His language skills were excellent, and the translations were fluent. Furthermore, throughout our collaboration, he maintained constant communication and took my requests into consideration. I would like to express my gratitude to Enes; it was a wonderful experience!"
+        },
+        {
+            "name": "Alperen Demirel",
+            "desc": "It was a very fast process, and both the service and the quality were excellent. I highly recommend it."
+        }
+    ]
+}

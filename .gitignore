@@ -1,0 +1,10 @@
+# MODULES
+node_modules/
+# BUILD
+.next/
+
+# ENV
+.env
+
+# LOGS
+package-lock.json
