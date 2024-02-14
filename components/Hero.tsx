@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import Image from "next/image";
 import Typewriter from 'typewriter-effect';
-import { tr, en } from "../lib/config.js";
+import data from "../lib/config.js";
 
 export default function Hero({ t }: { t: any }) {
   return (
@@ -10,7 +10,7 @@ export default function Hero({ t }: { t: any }) {
         <h1 className="text-5xl font-semibold text-white">
           <span className="text-primary font-bold">{t("lang") == "tr" ? "Merhaba" : "Hi"},</span> {t("lang") == "tr" ? "Ben" : "I'm"} <Typewriter
             options={{
-              strings: t("lang") == "tr" ? tr : en,
+              strings: t("lang") == "tr" ? data.tr : data.en,
               autoStart: true,
               loop: true,
             }}

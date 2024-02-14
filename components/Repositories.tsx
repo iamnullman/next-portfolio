@@ -1,13 +1,13 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { githubId } from "../lib/config.js"
+import config from "../lib/config.js"
 
 export default function Repositories() {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
 
   const getRepositories = async () => {
-    fetch("https://api.github.com/users/" + githubId + "/repos")
+    fetch("https://api.github.com/users/" + config.githubId + "/repos")
       .then((response) => response.json())
       .then((data) => {
         setData(
